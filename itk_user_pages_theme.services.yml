@@ -1,0 +1,5 @@
+services:
+  itk_user_pages_theme.route_subscriber:
+    class: Drupal\itk_user_pages_theme\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

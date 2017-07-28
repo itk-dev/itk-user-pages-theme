@@ -1,0 +1,10 @@
+{
+  "name": "drupal/itk-user-pages-theme",
+  "description": "ITK user pages theme module",
+  "type": "drupal-module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "require": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
