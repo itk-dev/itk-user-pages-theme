@@ -37,5 +37,9 @@ class RouteSubscriber extends RouteSubscriberBase {
     if ($route = $collection->get('user.reset')) {
       $route->setOption('_admin_route', 'TRUE');
     }
+
+    if ($route = $collection->get('view.scheduler_scheduled_content.user_page')) {
+      $route->setOption('_admin_route', 'TRUE');
+    }
   }
 }
