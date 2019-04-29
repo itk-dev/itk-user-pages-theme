@@ -1,6 +1,6 @@
 {
-  "name": "drupal/itk-user-pages-theme",
-  "description": "ITK user pages theme module",
+  "name": "itk-dev/itk-user-pages-theme",
+  "description": "Drupal 8 module to set the theme for user pages",
   "type": "drupal-module",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
