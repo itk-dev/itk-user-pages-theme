@@ -1,4 +1,7 @@
-#ITK user pages theme 8.x-1.x
+# ITK user pages theme
+
+### 1.3.2
+- Changed description of module
 
 ### 1.0.0
 - Added route options for user pages
