@@ -1,6 +1,6 @@
 # ITK user pages theme
 
-### 1.0.1
+### 1.3.2
 - Changed description of module
 
 ### 1.0.0
