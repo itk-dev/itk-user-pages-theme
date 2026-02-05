@@ -1,5 +1,9 @@
 # ITK user pages theme
 
+### 1.3.3
+- Updated rupal compatibility
+
+
 ### 1.3.2
 - Changed description of module
 
